@@ -1,4 +1,5 @@
 import React from 'react';
+import './InfoSection.css'
 
 const InfoSection = ({ title, content }) => (
     <div className="section-detail">

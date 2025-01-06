@@ -1,12 +1,9 @@
-.member-list-container {
-    padding: 20px;
-}
-  
 .member-list-header {
     display: flex;
     justify-content: space-between;
     align-items: center;
     margin-bottom: 20px;
+    padding:1em 4em;
 }
 
 .add-member-button{
@@ -18,4 +15,4 @@
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     padding: 3em;
     gap: 2em;
-  }
+}

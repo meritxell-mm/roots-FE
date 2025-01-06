@@ -1,5 +1,6 @@
 import React from 'react';
 import MemberLink from '../MemberLink/MemberLink';
+import './InfoItem.css'
 
 const InfoItem = ({ label, value }) => {
   return (
