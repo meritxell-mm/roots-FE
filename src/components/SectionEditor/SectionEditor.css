@@ -1,0 +1,11 @@
+.rsw-ce{
+    background-color: #fff;
+  }
+  
+.rsw-toolbar{
+background-color: var(--color-background) !important;
+}
+
+.rsw-editor{
+width: 97%;
+}

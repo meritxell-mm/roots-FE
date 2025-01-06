@@ -1,40 +1,9 @@
-/*import React from 'react';
-import MemberProfile from './components/MemberProfile/MemberProfile';
-
-function App() {
-  return (
-    <div className="App">
-      
-      <MemberProfile memberId={1} />
-    </div>
-  );
-}
-
-export default App;
-*/
-/*import React from 'react';
-import './App.css';
-import MemberList from './components/MemberList';
-import MemberProfile from './components/MemberProfile/MemberProfile';
-
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <h1>LA Família</h1>
-      </header>
-      <MemberProfile />
-    </div>
-  );
-}
-
-export default App;*/
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import AddMemberForm from './components/AddMemberForm/AddMemberForm';
-import MemberProfile from './components/MemberProfile/MemberProfile';
-import MembersList from './components/MembersList';
-import './styles.css';
+import AddMemberForm from './pages/AddMemberForm/AddMemberForm';
+import MemberProfile from './pages/MemberProfile/MemberProfile';
+import MembersList from './pages/MembersList/MembersList';
+import './index.css';
 
 function App() {
   return (

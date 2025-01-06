@@ -1,0 +1,31 @@
+.section-detail {
+  margin-bottom: 20px;
+}
+
+.section-detail {
+  margin-bottom: 20px;
+}
+
+.details{
+  padding-bottom: 40px;
+}
+
+
+@media (max-width: 768px) {
+    .container {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .main-container {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    
+    .basic-info {
+        width: 90%;
+        margin-top: 20px;
+    }
+}
+
+
