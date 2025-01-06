@@ -1,4 +1,4 @@
-# Roots - Frontend
+# Roots - Frontend (Ongoing project)
 
 ## Description
 
